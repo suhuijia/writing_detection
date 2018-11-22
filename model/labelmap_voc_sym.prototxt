@@ -1,0 +1,110 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "0"
+  label: 1
+  display_name: "0"
+}
+item {
+  name: "1"
+  label: 2
+  display_name: "1"
+}
+item {
+  name: "2"
+  label: 3
+  display_name: "2"
+}
+item {
+  name: "3"
+  label: 4
+  display_name: "3"
+}
+item {
+  name: "4"
+  label: 5
+  display_name: "4"
+}
+item {
+  name: "5"
+  label: 6
+  display_name: "5"
+}
+item {
+  name: "6"
+  label: 7
+  display_name: "6"
+}
+item {
+  name: "7"
+  label: 8
+  display_name: "7"
+}
+item {
+  name: "8"
+  label: 9
+  display_name: "8"
+}
+item {
+  name: "9"
+  label: 10
+  display_name: "9"
+}
+item {
+  name: "62"
+  label: 11
+  display_name: "10"
+}
+item {
+  name: "63"
+  label: 12
+  display_name: "11"
+}
+item {
+  name: "64"
+  label: 13
+  display_name: "12"
+}
+item {
+  name: "65"
+  label: 14
+  display_name: "13"
+}
+item {
+  name: "70"
+  label: 15
+  display_name: "14"
+}
+item {
+  name: "71"
+  label: 16
+  display_name: "15"
+}
+item {
+  name: "72"
+  label: 17
+  display_name: "16"
+}
+item {
+  name: "74"
+  label: 18
+  display_name: "17"
+}
+item {
+  name: "75"
+  label: 19
+  display_name: "18"
+}
+item {
+  name: "76"
+  label: 20
+  display_name: "19"
+}
+item {
+  name: "147"
+  label: 21
+  display_name: "20"
+}
